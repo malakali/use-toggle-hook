@@ -1,0 +1,25 @@
+{
+  "name": "use-toggle-hook",
+  "version": "1.0.0",
+  "description": "Easy Way for Toggle state using React hook ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malakali/use-toggle-hook"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "javascript",
+    "toggle-state",
+    "hooks"
+  ],
+  "author": "malak ali",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.71.0"
+  }
+}
